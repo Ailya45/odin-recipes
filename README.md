@@ -1,1 +1,2 @@
 # odin-recipes
+El proyecto que se realizara actualmente, Odin-Recipes, estará destinado a demostrar las habilidades aprendidas en el curso de HTML una vez que lo completemos, así veremos nuestra capacidad al momento de estructurar una página web usando HTML
